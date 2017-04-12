@@ -1,0 +1,5 @@
+
+Some of the following problems make it hard to guarantee platform indipendency:
+
+- QFile renaming a file makes problems (under Windows only?)
+- QSocket?
